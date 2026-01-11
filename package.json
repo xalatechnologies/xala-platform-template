@@ -19,7 +19,7 @@
     "db:reset": "prisma migrate reset"
   },
   "dependencies": {
-    "@xalatechnologies/platform": "^2.0.0",
+    "@xalatechnologies/platform": "^2.0.1",
     "@hookform/resolvers": "^3.3.0",
     "@prisma/client": "^5.7.0",
     "@radix-ui/react-avatar": "^1.0.4",
