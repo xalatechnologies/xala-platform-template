@@ -1,4 +1,4 @@
-@import '@xalatechnologies/platform/dist/tokens.css';
+@import '@xalatechnologies/platform/tokens/css';
 
 @tailwind base;
 @tailwind components;
